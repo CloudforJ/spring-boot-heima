@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-/redis-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/springboot-/redis-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-condition.iml" filepath="$PROJECT_DIR$/springboot-condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-enable/springboot-enable.iml" filepath="$PROJECT_DIR$/springboot-enable/springboot-enable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" filepath="$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" />
+    </modules>
+  </component>
+</project>
